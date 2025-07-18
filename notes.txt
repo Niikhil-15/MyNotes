@@ -1,0 +1,34 @@
+{
+    "subjects": [
+        "English",
+        "History",
+        "Hindi",
+        "Math"
+    ],
+    "notes": [
+        {
+            "subject": "Hindi",
+            "title": "hello",
+            "content": "jnhdjkf oi isfsuffjk  jjfkdjfjkfalfjjdifkjffiefef gfuf jdfydn fhhbi9yfshf",
+            "date": "2025-07-17 16:11"
+        },
+        {
+            "subject": "Hindi",
+            "title": "hii",
+            "content": "how are you ",
+            "date": "2025-07-17 16:12"
+        },
+        {
+            "subject": "English",
+            "title": "helffklefeoif",
+            "content": "m,fjkfelkf\nfdlkfjdfdflkdfdf",
+            "date": "2025-07-17 16:18"
+        },
+        {
+            "subject": "Math",
+            "title": "differ",
+            "content": "a+nsdiduf psdwidw",
+            "date": "2025-07-17 16:27"
+        }
+    ]
+}
